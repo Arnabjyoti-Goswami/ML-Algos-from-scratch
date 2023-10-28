@@ -1,2 +1,3 @@
 # ML-Algos-from-scratch
-Classic Machine Learning Algorithms implemented using only NumPy
+
+Some of the classic Machine Learning algorithms I implemented using only NumPy.
