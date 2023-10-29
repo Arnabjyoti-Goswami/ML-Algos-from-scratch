@@ -9,3 +9,5 @@ Some of the classic Machine Learning algorithms I implemented using only NumPy.
 [Naive Bayes](https://github.com/Arnabjyoti-Goswami/ML-Algos-from-scratch/blob/main/Naive_Bayes.ipynb)
 
 [KNN](https://github.com/Arnabjyoti-Goswami/ML-Algos-from-scratch/blob/main/KNN.ipynb)
+
+[Regularized Logistic Regression](https://github.com/Arnabjyoti-Goswami/ML-Algos-from-scratch/blob/main/Regularized%20Logistic%20Regression/Regularized_Logistic_Regression.ipynb)
